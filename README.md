@@ -1,1 +1,1 @@
-TinDog Starting Files
+A simple site created using BootStrap
